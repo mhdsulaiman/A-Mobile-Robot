@@ -1,8 +1,7 @@
 # A-Mobile-Robot using Graph Theories and Q-learning Algorithm
 
 <h3>Abstract:</h3>
-<p>This project aims to design and build a self-driving robot capable to surpass obstacles that could hinder its way.
-The robot has been tested using two ways, by a maze where we should determine the starting and ending points. Through using a specific search algorithm to find the shortest path, the robot can access to the final destination and bypass static obstacles without any human intervention; Or through the free motion that relies on using machine learning to make the robot avoiding the fixed or mobile obstacles.
+<p>The robot has been tested using two ways, by a maze where we should determine the starting and ending points. Through using a specific search algorithm to find the shortest path, the robot can access to the final destination and bypass static obstacles without any human intervention; Or through the free motion that relies on using machine learning to make the robot avoiding the fixed or mobile obstacles.
 This report presents the algorithms and tools that we used for building the robot. Moreover, it shows experiments that we have done to reach satisfactory results.</p>
 
 <p>In this project, we designed the robot using 3D windows builder. You can find all the designs in the Project Designs Folder.</p>
