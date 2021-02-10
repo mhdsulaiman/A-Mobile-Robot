@@ -20,4 +20,4 @@ We used Python as the main programing language for writing the Algorithms (Graph
   <li>CJCH Watkins, P Dayan, “Q-learning” Machine learning Journal, Vol 8, p 279-292</li>
   <li>Sebastian Raschka & Vahid Mirjalili (2017) “python machine learning”, second edition, pp. 610-622</li>
 </ul>
-<p>You can find the full Bachelor thesis Here: https://drive.google.com/file/d/1EF5tafwYIltcWr5bGRT1gw_Mej2G0-bD/view?usp=sharing </p>
+<p>You can find the full Bachelor thesis in Arabic Here: https://drive.google.com/file/d/1EF5tafwYIltcWr5bGRT1gw_Mej2G0-bD/view?usp=sharing </p>
