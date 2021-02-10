@@ -22,4 +22,4 @@ For the hardware part, Arduino Mega has been used with 1 Bluetooth receiver shie
   <li>Sebastian Raschka & Vahid Mirjalili (2017) “python machine learning”, second edition, pp. 610-622</li>
 </ul>
 <p>You can find the full Bachelor thesis: [Here](https://drive.google.com/file/d/1EF5tafwYIltcWr5bGRT1gw_Mej2G0-bD/view?usp=sharing)</p>
-[GitHub](http://github.com)
+[a link](https://github.com/user/repo/blob/branch/other_file.md)
