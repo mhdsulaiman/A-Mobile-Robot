@@ -6,7 +6,7 @@ This report presents the algorithms and tools that we used for building the robo
 
 <p>In this project, we designed the robot using 3D windows builder. You can find all the designs in the Project Designs Folder.</p>
 <h3>A Simple Discerption for Robot’s work:</h3>
-<p>First Practical procedure we did was moving the robot from point A to point B using Graphs to execute a programming map making the robot apply to surpass the obstacles that are already defended. Also, the obstacles that it may face during his movement to reach his final destination on this map.</p>
+<p>First Practical procedure, we did was moving the robot from point A to point B using Graphs to execute a programming map making the robot apply to surpass the obstacles that are already defended. Also, the obstacles that it may face during his movement to reach his final destination on this map.</p>
 
 <p>The Second Practical Procedure, we made the robot apply to learn and study the environment surrounding him using Reinforcement Learning Algorithm called Q-learning.
 We used Python as the main programing language for writing the Algorithms (Graphs – Q-learning). And, to control the movement of the robot like its brain.
