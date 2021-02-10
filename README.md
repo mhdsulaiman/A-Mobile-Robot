@@ -21,4 +21,4 @@ For the hardware part, Arduino Mega has been used with 1 Bluetooth receiver shie
   <li>CJCH Watkins, P Dayan, “Q-learning” Machine learning Journal, Vol 8, p 279-292</li>
   <li>Sebastian Raschka & Vahid Mirjalili (2017) “python machine learning”, second edition, pp. 610-622</li>
 </ul>
-You can find the full Bachelor thesis:   
+<p>You can find the full Bachelor thesis:   
