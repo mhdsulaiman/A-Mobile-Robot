@@ -1,4 +1,4 @@
-# A-Mobile-Robot
+# A-Mobile-Robot using Graph Theories and Q-learning Algorithm
 
 <h3>Abstract:</h3>
 <p>This project aims to design and build a self-driving robot capable to surpass obstacles that could hinder its way.
