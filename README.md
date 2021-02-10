@@ -11,7 +11,7 @@ This report presents the algorithms and tools that we used for building the robo
 <p>The Second Practical Procedure, we made the robot apply to learn and study the environment surrounding him using Reinforcement Learning Algorithm called Q-learning.
 We used Python as the main programing language for writing the Algorithms (Graphs – Q-learning).</p>
 <p>For the hardware part, Arduino Mega has been used with 1 Bluetooth receiver shield (HC-05), 5 Distance Sensor Ultrasonic sensor (Hc-sr04), 1 motors controller shield(Module l298n H Bridge) and 2 Dc-motors.</p>
-<p>The Arduino receive the data that he needs from python and he acts based on specific code wrote to control all the shield connected to it.</p>
+<p>The Arduino receive the data that he needs from python and acts based on specific Arduino C code wrote to control all the shield connected to it.</p>
 <h3>References:</h3>
 <ul>
   <li>https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/</li>
