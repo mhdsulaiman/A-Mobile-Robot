@@ -313,7 +313,7 @@ if __name__=='__main__':
 			print("the agent reachend the destination")
 			break		
 		except NameError:
-			print("==========================================\nwhy!!!!! why!!!!!\n===========================================")
+			print("Error")
 			break
 		
 		
